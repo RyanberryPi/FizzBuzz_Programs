@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/judgi/Desktop/School/Software Engineering/FizzBuzz_Programs/FizzBuzz_C/FizzBuzz_C.c
+stdio.h
+-
+

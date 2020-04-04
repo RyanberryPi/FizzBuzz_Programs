@@ -1,0 +1,11 @@
+C:\Users\judgi\Desktop\School\Software Engineering\FizzBuzz_Programs\FizzBuzz_C#\FizzBuzz_CS\FizzBuzz_CS\bin\Debug\netcoreapp3.1\FizzBuzz_CS.exe
+C:\Users\judgi\Desktop\School\Software Engineering\FizzBuzz_Programs\FizzBuzz_C#\FizzBuzz_CS\FizzBuzz_CS\bin\Debug\netcoreapp3.1\FizzBuzz_CS.deps.json
+C:\Users\judgi\Desktop\School\Software Engineering\FizzBuzz_Programs\FizzBuzz_C#\FizzBuzz_CS\FizzBuzz_CS\bin\Debug\netcoreapp3.1\FizzBuzz_CS.runtimeconfig.json
+C:\Users\judgi\Desktop\School\Software Engineering\FizzBuzz_Programs\FizzBuzz_C#\FizzBuzz_CS\FizzBuzz_CS\bin\Debug\netcoreapp3.1\FizzBuzz_CS.runtimeconfig.dev.json
+C:\Users\judgi\Desktop\School\Software Engineering\FizzBuzz_Programs\FizzBuzz_C#\FizzBuzz_CS\FizzBuzz_CS\bin\Debug\netcoreapp3.1\FizzBuzz_CS.dll
+C:\Users\judgi\Desktop\School\Software Engineering\FizzBuzz_Programs\FizzBuzz_C#\FizzBuzz_CS\FizzBuzz_CS\bin\Debug\netcoreapp3.1\FizzBuzz_CS.pdb
+C:\Users\judgi\Desktop\School\Software Engineering\FizzBuzz_Programs\FizzBuzz_C#\FizzBuzz_CS\FizzBuzz_CS\obj\Debug\netcoreapp3.1\FizzBuzz_CS.csprojAssemblyReference.cache
+C:\Users\judgi\Desktop\School\Software Engineering\FizzBuzz_Programs\FizzBuzz_C#\FizzBuzz_CS\FizzBuzz_CS\obj\Debug\netcoreapp3.1\FizzBuzz_CS.AssemblyInfoInputs.cache
+C:\Users\judgi\Desktop\School\Software Engineering\FizzBuzz_Programs\FizzBuzz_C#\FizzBuzz_CS\FizzBuzz_CS\obj\Debug\netcoreapp3.1\FizzBuzz_CS.AssemblyInfo.cs
+C:\Users\judgi\Desktop\School\Software Engineering\FizzBuzz_Programs\FizzBuzz_C#\FizzBuzz_CS\FizzBuzz_CS\obj\Debug\netcoreapp3.1\FizzBuzz_CS.dll
+C:\Users\judgi\Desktop\School\Software Engineering\FizzBuzz_Programs\FizzBuzz_C#\FizzBuzz_CS\FizzBuzz_CS\obj\Debug\netcoreapp3.1\FizzBuzz_CS.pdb
